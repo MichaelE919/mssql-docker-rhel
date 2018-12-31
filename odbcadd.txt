@@ -1,0 +1,7 @@
+[DEVAPPPBI]
+DSN=devapppbi
+Driver=ODBC Driver 17 for SQL Server
+Description=MSSQLServer
+Database=Pipeline_Data_Mover
+Server=devapppbi
+Trusted_Connection=Yes
